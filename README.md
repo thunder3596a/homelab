@@ -8,6 +8,7 @@ Firewall - OPNsense
 - 16gb DDR4 3000 Mhz RAM
 - 2.5GBic - Intel
 - Dual 10GBic - Intel
+
 Link Aggregation Switch - TP-Link
 - TL-SX3008F
 - 8 10GBic
