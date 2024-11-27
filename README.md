@@ -18,4 +18,7 @@ LAN Distrobution Switch - TP-Link
 - 4 10GBic
 - 24 1GBiC
 
-Survellience Distrobution Switch
+Survellience Distrobution Switch - TP-Link 
+- TL-SG1210PP
+- 6 GBic POE+
+- 2 GBic POE++
