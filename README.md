@@ -43,6 +43,14 @@ Traefik
 - Arr* Proxy
 - Internal Tools Proxy
 
+Internal Tool Stack
+- IT-Tools
+- Stirling PDF
+
+Security Onion
+- Standalone Install on VM
+- Honeypot Install on VM
+
 Arr* Stack
 - Sonarr
 - Radarr
