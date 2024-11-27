@@ -34,7 +34,11 @@ JBOD - NetAPP attached to NAS
 - 8 14TB SATA Drives
 - Room to expand!
 
-#Services
+Home Assistant Box - HP
+- Elitedesk SFF
+- 16GB DDR4 RAM
+
+# Services
 Traefik
 - Arr* Proxy
 - Internal Tools Proxy
@@ -45,3 +49,13 @@ Arr* Stack
 - Lidarr
 - Prowlarr
 - Readarr
+
+Home Assistant!!!!!!!!!!
+- Core & Supervisor
+- Music Assistant
+- Alarmo
+- ESPHome
+- Grocy (Shopping lists/Inventory/Recipes)
+- Whisper (AI Build)
+- OneDrive Backup
+- 
