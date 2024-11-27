@@ -9,7 +9,13 @@ Firewall - OPNsense
 - 2.5GBic - Intel
 - Dual 10GBic - Intel
 
-Link Aggregation Switch - TP-Link
+LAN Link Aggregation Switch - TP-Link
 - TL-SX3008F
 - 8 10GBic
 
+LAN Distrobution Switch - TP-Link
+- TL-SG3428X 
+- 4 10GBic
+- 24 1GBiC
+
+Survellience Distrobution Switch
