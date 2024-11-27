@@ -22,3 +22,11 @@ Survellience Distrobution Switch - TP-Link
 - TL-SG1210PP
 - 6 GBic POE+
 - 2 GBic POE++
+
+NAS/Virtualization Server - HP
+- DL360 G9
+- Dual Intel(R) Xeon(R) CPU E5-2630 v3 @ 2.40GHz 16c 32t
+- 126GB DDR4 3000mhz RAM
+- 10GBic - Intel
+- 4 1GBic - Intel
+- 
