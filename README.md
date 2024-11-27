@@ -1,7 +1,6 @@
 # Homelab
 This repository is a collection of homelab related materials that relate to current setup and the lessons I have learned along my homelab journey.
 
-# Hardware
 Firewall - OPNsense
 - HP Desktop
 - AMD Ryzen 5 PRO 2400G with Radeon Vega Graphics (4 cores, 8 threads)
@@ -30,3 +29,19 @@ NAS/Virtualization Server - HP
 - 10GBic - Intel
 - 4 1GBic - Intel
 - 
+JBOD - NetAPP attached to NAS
+- NetApp DS4246
+- 8 14TB SATA Drives
+- Room to expand!
+
+#Services
+Traefik
+- Arr* Proxy
+- Internal Tools Proxy
+
+Arr* Stack
+- Sonarr
+- Radarr
+- Lidarr
+- Prowlarr
+- Readarr
